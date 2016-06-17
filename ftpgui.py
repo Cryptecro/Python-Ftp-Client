@@ -1,6 +1,5 @@
 #Created By:Zachary Sylvester, Python FTP GUI
 from Tkinter import *
-import Tkinter
 import time
 from ftplib import FTP
 import os
