@@ -1,4 +1,4 @@
-# Python-Ftp-Client
+# Python-Ftp-Client #Currently not funtional 
 This is a GUI that uses the ftp client that has to be installed on linux.
 To use do sudo apt-get install ftp or "sudo yum install ftp"
 then do: "sudo apt-get install python" or "sudo yum install python"
